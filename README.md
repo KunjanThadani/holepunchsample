@@ -1,5 +1,5 @@
 # holepunchingsample
-This branch contains java programs for basic hole punching client and server
+This project contains java programs for basic hole punching client and server
 
 Steps:
 1. Compile server, clientA, and clientB.
