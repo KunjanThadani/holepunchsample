@@ -1,4 +1,4 @@
-# netster
+# holepunchingsample
 This branch contains java programs for basic hole punching client and server
 
 Steps:
